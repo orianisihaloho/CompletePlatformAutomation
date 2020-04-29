@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Search article about Pear on wikipedia" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-29T07:32:31" hostname="DNID0651L01.local" time="3.326">
+  <properties/>
+  <testcase name="User open wikipedia home page" classname="Search article about Pear on wikipedia" time="0.976"/>
+  <testcase name="User input search &quot;Pear&quot; on home page" classname="Search article about Pear on wikipedia" time="0.078"/>
+  <testcase name="User click button search on home page" classname="Search article about Pear on wikipedia" time="2.149"/>
+  <testcase name="User see article with title &quot;Pear&quot; on article page" classname="Search article about Pear on wikipedia" time="0.033"/>
+  <testcase name="classMethod" classname="Search article about Pear on wikipedia" time="4.271"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 42802
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Apr 29, 2020 2:32:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+[1588145553.625][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588145553.999][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588145554.100][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588145554.202][SEVERE]: Timed out receiving message from renderer: 0.100
+]]></system-err>
+</testsuite>
