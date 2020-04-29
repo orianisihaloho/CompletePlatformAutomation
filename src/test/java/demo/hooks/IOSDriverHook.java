@@ -13,6 +13,7 @@ public class IOSDriverHook {
 
     @After("@IOS")
     public void quitIOSDriver(){
+
         IOSDriverInstance.quit();
     }
 

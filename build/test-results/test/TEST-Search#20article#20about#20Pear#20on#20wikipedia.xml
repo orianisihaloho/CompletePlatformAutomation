@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Search article about Pear on wikipedia" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-29T07:32:31" hostname="DNID0651L01.local" time="3.326">
+<testsuite name="Search article about Pear on wikipedia" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-29T13:40:39" hostname="DNID0651L01.local" time="5.412">
   <properties/>
-  <testcase name="User open wikipedia home page" classname="Search article about Pear on wikipedia" time="0.976"/>
-  <testcase name="User input search &quot;Pear&quot; on home page" classname="Search article about Pear on wikipedia" time="0.078"/>
-  <testcase name="User click button search on home page" classname="Search article about Pear on wikipedia" time="2.149"/>
-  <testcase name="User see article with title &quot;Pear&quot; on article page" classname="Search article about Pear on wikipedia" time="0.033"/>
-  <testcase name="classMethod" classname="Search article about Pear on wikipedia" time="4.271"/>
+  <testcase name="User open wikipedia home page" classname="Search article about Pear on wikipedia" time="1.189"/>
+  <testcase name="User input search &quot;Pear&quot; on home page" classname="Search article about Pear on wikipedia" time="0.067"/>
+  <testcase name="User click button search on home page" classname="Search article about Pear on wikipedia" time="4.041"/>
+  <testcase name="User see article with title &quot;Pear&quot; on article page" classname="Search article about Pear on wikipedia" time="0.022"/>
+  <testcase name="classMethod" classname="Search article about Pear on wikipedia" time="6.367"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 42802
+  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 39491
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Apr 29, 2020 2:32:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Apr 29, 2020 8:40:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-[1588145553.625][SEVERE]: Timed out receiving message from renderer: 0.100
-[1588145553.999][SEVERE]: Timed out receiving message from renderer: 0.100
-[1588145554.100][SEVERE]: Timed out receiving message from renderer: 0.100
-[1588145554.202][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167642.252][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167642.355][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167642.549][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167642.841][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167642.944][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.136][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.238][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.340][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.442][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.544][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.646][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.749][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.851][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167643.953][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167644.056][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167644.157][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167644.259][SEVERE]: Timed out receiving message from renderer: 0.100
 ]]></system-err>
 </testsuite>

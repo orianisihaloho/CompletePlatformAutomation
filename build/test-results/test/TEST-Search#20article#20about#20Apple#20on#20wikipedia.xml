@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Search article about Apple on wikipedia" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-29T07:32:26" hostname="DNID0651L01.local" time="3.569">
+<testsuite name="Search article about Apple on wikipedia" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-29T13:40:33" hostname="DNID0651L01.local" time="4.426">
   <properties/>
-  <testcase name="User open wikipedia home page" classname="Search article about Apple on wikipedia" time="1.28"/>
-  <testcase name="User input search &quot;Apple&quot; on home page" classname="Search article about Apple on wikipedia" time="0.151"/>
-  <testcase name="User click button search on home page" classname="Search article about Apple on wikipedia" time="2.026"/>
-  <testcase name="User see article with title &quot;Apple&quot; on article page" classname="Search article about Apple on wikipedia" time="0.025"/>
-  <testcase name="classMethod" classname="Search article about Apple on wikipedia" time="6.326"/>
+  <testcase name="User open wikipedia home page" classname="Search article about Apple on wikipedia" time="1.395"/>
+  <testcase name="User input search &quot;Apple&quot; on home page" classname="Search article about Apple on wikipedia" time="0.076"/>
+  <testcase name="User click button search on home page" classname="Search article about Apple on wikipedia" time="2.838"/>
+  <testcase name="User see article with title &quot;Apple&quot; on article page" classname="Search article about Apple on wikipedia" time="0.024"/>
+  <testcase name="classMethod" classname="Search article about Apple on wikipedia" time="6.708"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 3370
+  <system-err><![CDATA[Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 11972
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Apr 29, 2020 2:32:26 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+Apr 29, 2020 8:40:33 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-[1588145549.376][SEVERE]: Timed out receiving message from renderer: 0.100
-[1588145549.969][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167635.013][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167636.553][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167636.697][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167636.799][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167636.901][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167637.003][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167637.106][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167637.800][SEVERE]: Timed out receiving message from renderer: 0.100
+[1588167637.902][SEVERE]: Timed out receiving message from renderer: 0.100
 ]]></system-err>
 </testsuite>

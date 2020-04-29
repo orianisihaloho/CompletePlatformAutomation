@@ -21,6 +21,7 @@ public class WikipediaStepsDefinition {
 
     @When("User input search {string} on home page")
     public void userInputSearchOnHomePage(String keyword) {
+
         homePage.inputSearch(keyword);
     }
     //Change @And into @When

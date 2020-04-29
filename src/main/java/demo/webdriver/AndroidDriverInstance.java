@@ -28,7 +28,7 @@ public class AndroidDriverInstance {
 
         try {
             androidDriver = new AndroidDriver<>(new URL(appiumUrl), caps);
-            androidDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+            androidDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }

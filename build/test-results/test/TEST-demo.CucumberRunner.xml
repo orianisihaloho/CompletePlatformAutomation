@@ -4,13 +4,9 @@
   <system-out><![CDATA[
 2 Scenarios (?[32m2 passed?[0m)
 8 Steps (?[32m8 passed?[0m)
-0m10.599s
+0m13.078s
 
 
 ]]></system-out>
-  <system-err><![CDATA[Apr 29, 2020 2:32:23 PM io.cucumber.junit.Cucumber <init>
-WARNING: By default Cucumber is running in --non-strict mode.
-This default will change to --strict and --non-strict will be removed.
-You can use --strict or @CucumberOptions(strict = true) to suppress this warning
-]]></system-err>
+  <system-err><![CDATA[]]></system-err>
 </testsuite>

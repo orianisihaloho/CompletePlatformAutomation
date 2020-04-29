@@ -6,6 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
+        strict = true,
         features = "src/test/resources/features",   // directory web
         plugin = {"html:build/result"},             // you could view this html for open on browser
         stepNotifications = true,                   // view step in terminal
