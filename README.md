@@ -1,9 +1,8 @@
-# WebAutomation
-Web Automation using Selenium and Cucumber on wikipedia.org include:
-* Open HomePage
-* Input Search on HomePage
-* Click Search on HomePage
-* Get Title on Article Page
+# Complete Platform Automation
+Automation using Selenium and Cucumber include:
+* Web Automation
+* Android Automation
+* IOS Automation
 
 ![alt text](https://github.com/orianisihaloho/WebAutomation/blob/master/Wikipedia.png?raw=true)
 
@@ -24,4 +23,5 @@ Library for dependencies on build.gradle:
 ### Usage
 1. Clone this project
 2. Open the project on Intellij IDEA
-3. Run SeleniumTest to do web automation
+3. Choose one or more the platform with type tag "@Web" or  "@Android" or "IOS" on CucumberRunner
+3. Run CucumberRunner
