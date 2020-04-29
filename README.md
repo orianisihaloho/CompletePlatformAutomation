@@ -24,4 +24,4 @@ Library for dependencies on build.gradle:
 1. Clone this project
 2. Open the project on Intellij IDEA
 3. Choose one or more the platform with type tag "@Web" or  "@Android" or "IOS" on CucumberRunner
-3. Run CucumberRunner
+4. Run CucumberRunner
